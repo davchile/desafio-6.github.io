@@ -1,0 +1,33 @@
+.navbar-brand p {
+    align-items: center;
+    margin-bottom: 0rem;
+  }
+
+.navbar-brand img {
+  width: 20%;
+}
+
+header {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#Hero-Section {
+  background-image: url("../img/18069813.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#Mis-trabajos .image-top {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.card a {
+  text-decoration: none;
+  color: #fff;
+}

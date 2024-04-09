@@ -1,0 +1,20 @@
+body {
+    background-color: white;
+}
+/* modelo de caja */
+.big {
+    font-size: 20px;
+    padding: 100px;
+    margin: 40px;
+    border: 2px dotted black;
+
+}
+.title {
+    color: darkgray;
+    text-align: center;
+    
+}
+
+
+
+
